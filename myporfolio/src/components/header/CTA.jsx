@@ -8,4 +8,4 @@ return (
 </div>
 )
 }
-export default CTA //this line indicates that this component can be imported and used
+export default CTA 
