@@ -30,9 +30,9 @@ const Contact = () => {
             <article className="contact__option">
               <MdOutlineEmail className="contact__option__icon" />
               <h4>Email</h4>
-              <h5>myEmail@gmail.com</h5>
+              <h5>fonjidaniel28@gmail.com</h5>
               <a
-                href="mailto:aldenovpoutine99@gmail.com"
+                href="mailto:fonjidaniel28@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -58,7 +58,7 @@ const Contact = () => {
               <h4>Whatsapp</h4>
               <h5>Direct message</h5>
               <a
-                href="https://web.whatsapp.com/send?phone=+237676697868"
+                href="https://web.whatsapp.com/send?phone=+237656256837"
                 target="_blank"
                 rel="noreferrer"
               >

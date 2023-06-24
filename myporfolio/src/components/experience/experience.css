@@ -12,6 +12,10 @@
     transition: var(--transition);
 }
 
+.experience__section {
+    text-align: center;
+  }
+  
 .experience__container>div:hover{
     background: transparent;
     border-color: var(--color-primary-variant);
